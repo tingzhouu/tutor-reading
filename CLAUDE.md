@@ -66,11 +66,16 @@ The reading log is stored in `data/reading-log.json`. After a discussion session
 ]
 ```
 
+## Read-Later Queue
+
+The read-later queue is stored in `data/read-later.json`. This is for articles the user spots but doesn't have time to read yet. When running `/read`, check the queue and surface relevant saved articles alongside fresh recommendations. After an article is read and discussed, move it from the queue to the reading log.
+
 ## Interaction Modes
 
 The user will interact with you through slash commands:
 
 - `/read` — Find content to read right now (the main entry point)
+- `/later` — Save an article to read later (just paste a URL)
 - `/discuss` — Discuss something they've just read
 - `/log` — View or manage their reading log
 - `/sources` — Discover and manage quality sources

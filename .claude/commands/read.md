@@ -18,9 +18,11 @@ If the user provided arguments ($ARGUMENTS), use those to focus the search. Exam
 
 If no arguments, pick a balanced mix across their interests.
 
-## Step 2: Check Reading Log
+## Step 2: Check Reading Log and Read-Later Queue
 
 Read `data/reading-log.json` to see what they've read recently. Avoid recommending similar content to what they read in the last week. Use the log to identify topics they haven't covered recently.
+
+Also read `data/read-later.json` to check for saved articles. If there are queued articles that match the user's current mood/topic, prioritize surfacing those — the user already expressed interest in them. Mark these clearly as "from your queue" in the recommendations.
 
 ## Step 3: Pull from Substack Feed
 
