@@ -1,0 +1,62 @@
+{
+  "substacks": [
+    {
+      "url": "https://drlauriemarbas.substack.com",
+      "topic": "health",
+      "name": "The Habit Healers"
+    },
+    {
+      "url": "https://oneusefulthing.substack.com",
+      "topic": "ai",
+      "name": "One Useful Thing (Ethan Mollick)"
+    },
+    {
+      "url": "https://www.latent.space",
+      "topic": "ai",
+      "name": "Latent Space"
+    },
+    {
+      "url": "https://www.lennysnewsletter.com",
+      "topic": "software-engineering",
+      "name": "Lenny's Newsletter"
+    },
+    {
+      "url": "https://pragmaticengineer.substack.com",
+      "topic": "software-engineering",
+      "name": "The Pragmatic Engineer"
+    },
+    {
+      "url": "https://newcomer.substack.com",
+      "topic": "finance",
+      "name": "Newcomer (Eric Newcomer)"
+    },
+    {
+      "url": "https://michaeljburry.substack.com",
+      "topic": "finance",
+      "name": "Michael Burry"
+    },
+    {
+      "url": "https://molochinations.substack.com",
+      "topic": "ai",
+      "name": "Molochinations"
+    },
+    {
+      "url": "https://www.2ndorderthinkers.com",
+      "topic": "finance",
+      "name": "2nd Order Thinkers"
+    },
+    {
+      "url": "https://howardyu.substack.com",
+      "topic": "finance",
+      "name": "Howard Yu"
+    }
+  ],
+  "blogs": [
+    {
+      "url": "https://simonwillison.net/",
+      "feed": "https://simonwillison.net/atom/everything/",
+      "topic": "ai",
+      "name": "Simon Willison"
+    }
+  ]
+}
