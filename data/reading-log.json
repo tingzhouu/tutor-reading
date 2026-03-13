@@ -7,5 +7,14 @@
     "length": "medium",
     "takeaways": "Uber's AI tooling (Minion, Shepherd, uReview) with 84% dev adoption. Reporting was solid but not surprising — the more interesting question is whether companies use AI tools as learning accelerators vs shortcuts, and what that means for engineer quality over time.",
     "rating": 2
+  },
+  {
+    "date": "2026-03-13",
+    "title": "The Shape of the Thing",
+    "url": "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+    "topic": "ai",
+    "length": "quick",
+    "takeaways": "METR long task benchmark shows exponential growth in AI autonomous capability — y-axis measures task complexity by human-hours. The 'otters on wifi' image generation comparison powerfully illustrates exponential improvement that's hard to perceive in the moment. Sparked reflection on personal AI adoption progression (Copilot → ChatGPT → Cursor → autonomous agents) and where the value of learning programming languages sits now.",
+    "rating": 5
   }
 ]
