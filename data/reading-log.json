@@ -16,5 +16,41 @@
     "length": "quick",
     "takeaways": "METR long task benchmark shows exponential growth in AI autonomous capability — y-axis measures task complexity by human-hours. The 'otters on wifi' image generation comparison powerfully illustrates exponential improvement that's hard to perceive in the moment. Sparked reflection on personal AI adoption progression (Copilot → ChatGPT → Cursor → autonomous agents) and where the value of learning programming languages sits now.",
     "rating": 5
+  },
+  {
+    "date": "2026-03-14",
+    "title": "Slow is Fast: Why Rushing AI Adoption Backfires on Productivity",
+    "url": "https://www.2ndorderthinkers.com/p/i-fact-checked-the-most-viral-ai",
+    "topic": "ai",
+    "length": "quick",
+    "takeaways": "Long tail of demand is the real insight — AI makes it viable to solve niche problems too small for vendors. Rate-determining step metaphor: org bottlenecks govern adoption speed, not AI capability. Weak on specifics — claims to fact-check viral AI claims but doesn't cite the actual stories (Klarna, IBM, Chegg). Prompted useful self-reflection on personal automation opportunities (Miro boarding, kickoff prep).",
+    "rating": 3
+  },
+  {
+    "date": "2026-03-14",
+    "title": "Migrating millions of lines of code to TypeScript",
+    "url": "https://stripe.com/blog/migrating-to-typescript",
+    "topic": "software-engineering",
+    "length": "medium",
+    "takeaways": "Stripe migrated 3.7M lines from Flow to TypeScript in a single PR. Big-bang approach chosen because tight coupling made incremental migration impractical. A year of codemod preparation made the risky day boring. Shipped with 37,000 @ts-expect-error suppressions — pragmatism over perfectionism. Well-written but no explosive insights.",
+    "rating": 3
+  },
+  {
+    "date": "2026-03-19",
+    "title": "Retrieval After RAG: Hybrid Search, Agents, and Database Design — Simon Hørup Eskildsen of Turbopuffer",
+    "url": "https://www.latent.space/p/turbopuffer",
+    "topic": "software-engineering",
+    "length": "deep",
+    "takeaways": "Advancements in other technologies can trigger advancements in new ones — S3 strong consistency (2020), NVMe SSDs (2017), and compare-and-swap (2024) converged to enable a fundamentally different database architecture. When making design decisions, think of where they could potentially be disruptive. Founded on napkin math, not market research. Design philosophy: optimize for what won't wake you at 3 AM — no consensus layer, S3 as single source of truth, stateless servers.",
+    "rating": 5
+  },
+  {
+    "date": "2026-03-19",
+    "title": "What If the Best Time to Exercise Is Right After You Put Down Your Fork?",
+    "url": "https://drlauriemarbas.substack.com/p/what-if-the-best-time-to-exercise",
+    "topic": "health",
+    "length": "quick",
+    "takeaways": "Post-meal walking blunts blood sugar spikes (~17% reduction). Timing matters — immediate post-meal beats delayed. Pre-meal exercise doesn't blunt the spike but does help with overall glucose disposal via glycogen replenishment. Well-cited for a short health article but nothing new.",
+    "rating": 2
   }
 ]
