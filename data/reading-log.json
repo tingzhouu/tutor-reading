@@ -52,5 +52,14 @@
     "length": "quick",
     "takeaways": "Post-meal walking blunts blood sugar spikes (~17% reduction). Timing matters — immediate post-meal beats delayed. Pre-meal exercise doesn't blunt the spike but does help with overall glucose disposal via glycogen replenishment. Well-cited for a short health article but nothing new.",
     "rating": 2
+  },
+  {
+    "date": "2026-03-20",
+    "title": "Why the ATM Didn't Kill Bank Tellers",
+    "url": "https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller",
+    "topic": "ai",
+    "length": "medium",
+    "takeaways": "Task automation (ATMs) vs paradigm shifts (iPhones) have different labor effects. Extended to AI/engineers: demand only drops when bottleneck moves away from code. Real constraint isn't coding capability—it's gathering scattered context and resolving ambiguity in complex systems. LLMs can organize explicit information but cannot navigate, disambiguate, or understand implicit tradeoffs. Domain expertise becomes the binding constraint, not code generation.",
+    "rating": 5
   }
 ]
