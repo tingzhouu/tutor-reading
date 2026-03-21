@@ -61,5 +61,14 @@
     "length": "medium",
     "takeaways": "Task automation (ATMs) vs paradigm shifts (iPhones) have different labor effects. Extended to AI/engineers: demand only drops when bottleneck moves away from code. Real constraint isn't coding capability—it's gathering scattered context and resolving ambiguity in complex systems. LLMs can organize explicit information but cannot navigate, disambiguate, or understand implicit tradeoffs. Domain expertise becomes the binding constraint, not code generation.",
     "rating": 5
+  },
+  {
+    "date": "2026-03-21",
+    "title": "Why I'm Not Worried About AI Job Loss",
+    "url": "https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss",
+    "topic": "ai",
+    "length": "medium",
+    "takeaways": "Argues comparative advantage over absolute advantage: even if AI beats humans at everything, human+AI often outperforms either alone. Regulatory friction and organizational inertia persist as bottlenecks. Elastic demand will drive more work, not fewer jobs. Weakness: descriptive not prescriptive—shows a future but doesn't help prepare for it. Real preparation = manage AI agents well AND build deep domain expertise so you understand *why* decisions matter, not just *how* to code them.",
+    "rating": 4
   }
 ]
